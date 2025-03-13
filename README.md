@@ -3,7 +3,7 @@
 - **2024.08 ~ 2024.11**: Metaverse Academy Backend 3기 수료
 - **2024.12 ~ 현재**: 글로소리(주) 백엔드 개발자
 
-Specializing in **Java**, **Spring Boot**, **JPA**, and currently learning **Django**. I have experience with various backend technologies like **MySQL**, **Redis**, and **AWS**. Currently, I focus on building scalable and efficient backend systems at **Glosory**.
+Specializing in **Java**, **Spring Boot**, **JPA**, and currently learning **Django**. I have experience with backend technologies like **MySQL**, **Redis**, and **AWS**. Currently, I focus on building scalable and efficient backend systems at **Glosory**.
 
 ---
 
