@@ -19,13 +19,3 @@ Specializing in **Java**, **Spring Boot**, **JPA**, and currently learning **Dja
 
 ### Frontend
 <img src="https://img.shields.io/badge/React-61DAFB?style=round-square&logo=React&logoColor=black"/>
-
----
-
-## Connect With Me
-- [Instagram](https://www.instagram.com/chaeihou/)
-- [YouTube](https://www.youtube.com/channel/UCuTBkIx2Lgy468HWPSJC-3w)
-
----
-
-![](./profile-3d-contrib/profile-green-animate.svg)
