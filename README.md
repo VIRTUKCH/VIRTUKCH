@@ -1,9 +1,11 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=HI%20I%20AM%20CHAEHO%20&animation=fadeIn&fontSize=40)
+
 ## About Me
 - **2024.02 ~ 2024.08**: NHN Academy Backend 6기 수료
 - **2024.08 ~ 2024.11**: Metaverse Academy Backend 3기 수료
 - **2024.12 ~ 현재**: 글로소리(주) 백엔드 개발자
 
-Specializing in **Java**, **Spring Boot**, and **JPA**, with experience working on various backend technologies like MySQL, Redis, and AWS. Currently focusing on building scalable and efficient backend systems at **Glosory**.
+Specializing in **Java**, **Spring Boot**, **JPA**, and currently learning **Django**. I have experience with various backend technologies like **MySQL**, **Redis**, and **AWS**. Currently, I focus on building scalable and efficient backend systems at **Glosory**.
 
 ---
 
@@ -18,8 +20,6 @@ Specializing in **Java**, **Spring Boot**, and **JPA**, with experience working 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=round-square&logo=amazon-aws&logoColor=white"/>
 
 ### Frontend
-<img src="https://img.shields.io/badge/Typescript-FDB515?style=round-square&logo=TypeScript&logoColor=Purple"/> 
-<img src="https://img.shields.io/badge/Expo-9933CC?style=round-square&logo=Expo&logoColor=Purple"/> 
 <img src="https://img.shields.io/badge/React-61DAFB?style=round-square&logo=React&logoColor=black"/>
 
 ---
