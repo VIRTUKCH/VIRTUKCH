@@ -1,12 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=CHAEHO%20&animation=fadeIn&fontSize=40)
-
-![ChaeHo's GitHub stats](https://github-readme-stats.vercel.app/api?username=VIRTUKCH&show_icons=true&theme=radical)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=HI%20I%20AM%20CHAEHO%20&animation=fadeIn&fontSize=40)
 
 ## About Me
-Hi, I'm **ChaeHo**! I'm a backend developer specializing in **Java**, **Spring Boot**, and **JPA**.  
-Currently, I'm working at **Glosory** since December 2024.  
-I recently completed the **NHN Academy Backend** course from February 2024 to August 2024 and the **Metaverse Academy Backend** course from August to November 2024.  
-In my free time, I enjoy improving my skills and exploring new technologies.
+- **2024.02 ~ 2024.08**: NHN Academy Backend 6기 수료
+- **2024.08 ~ 2024.11**: Metaverse Academy Backend 3기 수료
+- **2024.12 ~ 현재**: 글로소리(주) 백엔드 개발자
+
+Specializing in **Java**, **Spring Boot**, and **JPA**, with experience working on various backend technologies like MySQL, Redis, and AWS. Currently focusing on building scalable and efficient backend systems at **Glosory**.
 
 ---
 
@@ -30,17 +29,6 @@ In my free time, I enjoy improving my skills and exploring new technologies.
 ## Connect With Me
 - [Instagram](https://www.instagram.com/chaeihou/)
 - [YouTube](https://www.youtube.com/channel/UCuTBkIx2Lgy468HWPSJC-3w)
-
----
-
-## GitHub Activity
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VIRTUKCH&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## Solved.ac Profile
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kch4731)](https://solved.ac/kch4731)
 
 ---
 
