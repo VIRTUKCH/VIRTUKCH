@@ -1,34 +1,47 @@
-# 채호's GitHub Page
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=HI%20I%20AM%20CHAEHO%20&animation=fadeIn&fontSize=40)
 
-백엔드 개발자 | 기술 스택: Java, Spring, JPA
-
----
+![ChaeHo's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaesc1&show_icons=true&theme=radical)
 
 ## About Me
-
-안녕하세요! 저는 백엔드 개발자 **채호**입니다. 현재 **글로소리**에서 활동 중이며, **NHN 아카데미**와 **메타버스 아카데미**에서 백엔드 관련 교육을 받았습니다. 제 기술 스택을 바탕으로 웹 서비스를 효율적으로 구축하고 관리하는 데 관심이 많습니다.
+Hi, I'm **ChaeHo**! I'm a backend developer specializing in **Java**, **Spring Boot**, and **JPA**.  
+Currently, I'm working at **Glosory** since December 2024.  
+I recently completed the **NHN Academy Backend** course from February 2024 to August 2024 and the **Metaverse Academy Backend** course from August to November 2024.  
+In my free time, I enjoy improving my skills and exploring new technologies.
 
 ---
 
-## Experience
+## Tech Stack
 
-여기에서 제 주요 경력을 소개합니다.
+### Backend
+<img src="https://img.shields.io/badge/JAVA-EE3221?style=round-square&logo=java&logoColor=white"/> 
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=round-square&logo=spring&logoColor=white"/> 
+<img src="https://img.shields.io/badge/JPA-6DB33F?style=round-square&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=round-square&logo=mysql&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Redis-DC382D?style=round-square&logo=redis&logoColor=white"/> 
+<img src="https://img.shields.io/badge/AWS-232F3E?style=round-square&logo=amazon-aws&logoColor=white"/>
 
-- **2024.02 ~ 2024.08**: NHN 아카데미 백엔드 6기
-- **2024.08 ~ 2024.11**: 메타버스 아카데미 백엔드 3기
-- **2024.12 ~ 현재**: 글로소리(주)
+### Frontend
+<img src="https://img.shields.io/badge/Typescript-FDB515?style=round-square&logo=TypeScript&logoColor=Purple"/> 
+<img src="https://img.shields.io/badge/Expo-9933CC?style=round-square&logo=Expo&logoColor=Purple"/> 
+<img src="https://img.shields.io/badge/React-61DAFB?style=round-square&logo=React&logoColor=black"/>
 
 ---
 
 ## Connect With Me
-
 - [Instagram](https://www.instagram.com/chaeihou/)
 - [YouTube](https://www.youtube.com/channel/UCuTBkIx2Lgy468HWPSJC-3w)
 
 ---
 
-## Technical Skills
+## GitHub Activity
 
-- Java
-- Spring
-- JPA
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chaesc1&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## Solved.ac Profile
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=chaesc1223)](https://solved.ac/chaesc1223)
+
+---
+
+![](./profile-3d-contrib/profile-green-animate.svg)
