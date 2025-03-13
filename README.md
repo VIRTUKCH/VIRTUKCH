@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=HI%20I%20AM%20CHAEHO%20&animation=fadeIn&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=CHAEHO%20&animation=fadeIn&fontSize=40)
 
-![ChaeHo's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaesc1&show_icons=true&theme=radical)
+![ChaeHo's GitHub stats](https://github-readme-stats.vercel.app/api?username=VIRTUKCH&show_icons=true&theme=radical)
 
 ## About Me
 Hi, I'm **ChaeHo**! I'm a backend developer specializing in **Java**, **Spring Boot**, and **JPA**.  
