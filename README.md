@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=HI%20I%20AM%20CHAEHO%20&animation=fadeIn&fontSize=40)
-
 ## About Me
 - **2024.02 ~ 2024.08**: NHN Academy Backend 6기 수료
 - **2024.08 ~ 2024.11**: Metaverse Academy Backend 3기 수료
